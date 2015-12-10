@@ -1,0 +1,1 @@
+create table series ( id_series INT )
